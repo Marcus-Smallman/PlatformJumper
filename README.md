@@ -4,8 +4,7 @@ This is the repository for the Platform Jumper mini game.
 Jump platforms and see how high you can get!
 The higher you get the faster it goes.
 
-<img src="StoreAssets/platformjumperstart.png" width="170" height="320">
-<img src="StoreAssets/platformjumperactive.png" width="170" height="320">
+<img src="StoreAssets/platformjumperstart.png" width="170" height="320"> <img src="StoreAssets/platformjumperactive.png" width="170" height="320">
 
 ## Windows
 To play on windows visit the release page [here](https://github.com/Marcus-Smallman/PlatformJumper/releases).
