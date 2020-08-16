@@ -10,14 +10,14 @@ The higher you get the faster it goes.
 To play on windows visit the release page [here](https://github.com/Marcus-Smallman/PlatformJumper/releases).
 
 ### Controls
-Right arrown on the keyboard to move right.<br />
-Left arrow on the keyboard to move left.<br />
+Left arrow to move left.<br />
+Right arrow to move right.<br />
 Space to jump.
 
 ## Android
 To play on android visit the Google Play store [here](https://play.google.com/store/apps/details?id=platformjumper.android.release).
 
 ### Controls
-Press the bottom right section of the screen to move right.<br />
 Press the bottom left section of the screen to move left.<br />
+Press the bottom right section of the screen to move right.<br />
 Tap anywhere else on the screen to jump.
