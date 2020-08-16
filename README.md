@@ -7,7 +7,7 @@ The higher you get the faster it goes.
 <img src="StoreAssets/platformjumperstart.png" width="170" height="320"> <img src="StoreAssets/platformjumperactive.png" width="170" height="320">
 
 ## Windows
-To play on windows visit the release page [here](https://github.com/Marcus-Smallman/PlatformJumper/releases).
+To play on Windows visit the release page [here](https://github.com/Marcus-Smallman/PlatformJumper/releases).
 
 ### Controls
 Left arrow to move left.<br />
@@ -15,7 +15,7 @@ Right arrow to move right.<br />
 Space to jump.
 
 ## Android
-To play on android visit the Google Play store [here](https://play.google.com/store/apps/details?id=platformjumper.android.release).
+To play on Android visit the Google Play store [here](https://play.google.com/store/apps/details?id=platformjumper.android.release).
 
 ### Controls
 Press the bottom left section of the screen to move left.<br />
